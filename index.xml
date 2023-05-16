@@ -35,7 +35,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 </name>
 <string-name>Charlotte Wickham</string-name>
 <email>fake_email@fakeyfake.com</email>
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="posit">a</xref>
 </contrib>
 <contrib contrib-type="author" corresp="yes">
 <contrib-id contrib-id-type="orcid">0000-0001-8715-9476</contrib-id>
@@ -45,26 +45,11 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 </name>
 <string-name>Charles Teague</string-name>
 <email>charles@posit.co</email>
-<xref ref-type="aff" rid="aff-2">b</xref>
+<xref ref-type="aff" rid="posit">a</xref>
 <xref ref-type="corresp" rid="cor-2">&#x002A;</xref>
 </contrib>
 </contrib-group>
-<aff id="aff-1">
-<institution content-type="dept">Graduate Program in Environmental
-Science</institution>
-<institution-wrap>
-<institution>State University of New York College of Environmental
-Science and Forestry</institution>
-</institution-wrap>
-<addr-line>1 Forestry Drive</addr-line>
-<city>Syracuse</city>
-<state>NY</state>
-<country>USA</country>
-<postal-code>13210</postal-code>
-
-
-</aff>
-<aff id="aff-2">
+<aff id="posit">
 <institution-wrap>
 <institution>Posit, PBC</institution>
 </institution-wrap>
